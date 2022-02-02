@@ -1,0 +1,21 @@
+{
+    "name": "high-contrast-light",
+    "displayName": "High Contrast Light",
+    "description": "Light high contrast theme based on GitHub Light theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HC Light",
+                "uiTheme": "vs",
+                "path": "./themes/HC Light-color-theme.json"
+            }
+        ]
+    }
+}
