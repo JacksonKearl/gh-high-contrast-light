@@ -3,6 +3,7 @@
     "displayName": "High Contrast Light",
     "description": "Light high contrast theme based on GitHub Light theme",
     "version": "0.0.1",
+    "publisher": "jaaxxx",
     "engines": {
         "vscode": "^1.63.0"
     },
